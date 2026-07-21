@@ -1,0 +1,5 @@
+com\safeops\backend\service\AnalysisServiceTest.class
+com\safeops\backend\service\ModelClientServiceTest.class
+com\safeops\backend\service\SafetyServiceTest.class
+com\safeops\backend\removed\SensorSimulatorTest.class
+com\safeops\backend\simulator\SensorSimulatorTest.class
